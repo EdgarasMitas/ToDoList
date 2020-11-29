@@ -8,7 +8,7 @@ Changes made:
 Added the table which takes user input, creates a new row and assign values to celss;
 Cells can be selected and deselected;
 Selected cells can be marked completed, important or deleted;
-Media queries for different screen sizes;
+Media queries for mobile and tablet;
 Creating background image.
 
 You can live preview it using:
