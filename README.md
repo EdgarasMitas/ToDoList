@@ -11,6 +11,9 @@ Selected cells can be marked completed, important or deleted;
 Media queries for mobile and tablet;
 Creating background image.
 
-You can live preview it using:
-https://htmlpreview.github.io
+Princscreens:
+![](Desktop%20toDo.png)
+![](Tablet%20toDo.png)
+![](Mobile%20toDo.png)
+
 
